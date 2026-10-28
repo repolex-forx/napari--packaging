@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/napari/packaging",
+  "@type": "gh:Repository",
+  "gh:name": "packaging",
+  "gh:owner": "napari",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/napari/packaging/commit/d175b4834ff78a756f3985f0e7cb9fc2fd68c1fd",
+      "git:hexsha": "d175b4834ff78a756f3985f0e7cb9fc2fd68c1fd",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
