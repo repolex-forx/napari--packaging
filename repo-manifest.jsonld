@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/napari/packaging/commit/d175b4834ff78a756f3985f0e7cb9fc2fd68c1fd",
       "git:hexsha": "d175b4834ff78a756f3985f0e7cb9fc2fd68c1fd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
